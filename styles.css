@@ -59,6 +59,10 @@ a:hover {
   color: white
 }
 
+.info {
+  list-style: none;
+}
+
 header {
   text-align: center;
   background: url('images/minneapolis.jpg') no-repeat top center;
